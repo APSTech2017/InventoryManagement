@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello JDBC Example</title>
+<title>Inventory Management | Login in</title>
 <%@ page import="java.util.*"%>
 </head>
 
