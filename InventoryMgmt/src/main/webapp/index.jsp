@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Inventory Management | Login in</title>
+<title>Inventory Management | Login page</title>
 <%@ page import="java.util.*"%>
 </head>
 
