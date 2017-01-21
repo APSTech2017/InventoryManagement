@@ -6,7 +6,7 @@ package com.apstech.models;
  * @since 01/20/2017
  */
 
-public class VehicleDetails {
+public class Vehicle {
 	private String vinNumber;
 	private String make;
 	private String model;

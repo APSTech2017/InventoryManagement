@@ -1,6 +1,6 @@
 package com.apstech.models;
 
-public class UserDetails {
+public class User {
 	
 	private String firstName;
 	private String lastName;
